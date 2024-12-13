@@ -7,6 +7,6 @@ def uppercase_decorator(func):
 
 @uppercase_decorator
 def print_message():
-    return "hello, world!"
+    return "siemka czesc"
 
 print(print_message())
